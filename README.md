@@ -1,3 +1,5 @@
+This issue is fixed by https://github.com/ueberdosis/tiptap/pull/5366
+
 ## REPL steps
 
 ```shell
